@@ -1,4 +1,4 @@
-# Java JSON Parsing Exercise
+# Java Random Wildcard Exercise
 
 This is just a simple repository where i do some exercise on using java wildcard (? sign), including map and enumerators 
 
